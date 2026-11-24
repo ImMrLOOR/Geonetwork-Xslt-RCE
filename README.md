@@ -49,7 +49,7 @@ No depende de librerías externas.
 ## Instalación
 
 ```bash
-git clone <TU_REPO> geonetwork-rce
+git clone <REPO> geonetwork-rce
 cd geonetwork-rce
 chmod +x geonetwork_formatter_rce.py
 ```
